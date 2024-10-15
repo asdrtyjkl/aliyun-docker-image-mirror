@@ -4,5 +4,4 @@ redis:6.2.14
 amuguelove/weixin-md:1.0.0
 halohub/halo:2.19
 lovechen/embyserver:4.7.14.0
-iyuucn/iyuuplus:latest
 jxxghp/moviepilot:1.9.17
