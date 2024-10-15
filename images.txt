@@ -5,7 +5,6 @@ amuguelove/weixin-md:1.0.0
 halohub/halo:2.19
 python:3.8.10-slim
 node:14.19.3-buster-slim
-odoo:18.0
 postgres:15.1
 odoo:17.0
 odoo:16.0
