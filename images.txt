@@ -6,9 +6,6 @@ halohub/halo:2.19
 python:3.8.10-slim
 node:14.19.3-buster-slim
 postgres:15.1
-odoo:17.0
-odoo:16.0
-odoo:15.0
 calico/cni:v3.20.6
 calico/pod2daemon-flexvol:v3.20.6
 calico/node:v3.20.6
